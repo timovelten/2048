@@ -9,3 +9,9 @@ It features:
 ### Training
 
 With the current hyper parameters, training is rather slow. It takes around `70 000 000` timesteps for the agent to somewhat consistently achieve the 2048 tile (around `15%` of the time in validation). Training for a lot longer (around `800 000 000` timesteps, which took 10 hours), the agent finally achieves the 2048 tile in `75%` of attempts, and achieves the `4096` tile in around `15%` of cases.
+
+### Demo
+
+Watch the model achive the 4096 tile (using the weights stored under `weights/`) here. You can watch it play in your own browser by following the instructions in `misc/play_browser.py`.
+
+[demo.webm](https://github.com/user-attachments/assets/621af019-e2df-4d38-8f33-846aaa29944e)
