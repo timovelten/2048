@@ -12,6 +12,6 @@ With the current hyper parameters, training is rather slow. It takes around `70 
 
 ### Demo
 
-Watch the model achive the 4096 tile (using the weights stored under `weights/`) here. You can watch it play in your own browser by following the instructions in `misc/play_browser.py`.
+Watch the model achieve the 4096 tile (using the weights stored under `weights/`) here. You can watch it play in your own browser by following the instructions in `misc/play_browser.py`.
 
 [demo.webm](https://github.com/user-attachments/assets/621af019-e2df-4d38-8f33-846aaa29944e)
